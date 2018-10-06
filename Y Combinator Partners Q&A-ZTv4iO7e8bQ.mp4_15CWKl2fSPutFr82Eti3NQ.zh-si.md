@@ -1780,7 +1780,7 @@ And.
 
 Because I actually had a list.
 
-https://tmt.ap-beijing.tencentcloudapi.com/?Action=TextTranslate&Nonce=1234&ProjectId=1257710951&Region=ap-beijing&SecretId=AKIDPqCXo8hXckompwwu7EB4sWzTvJXboBh2&Source=en&SourceText=Because+I+actually+had+a+list.&Target=zh&Timestamp=1538824216&Version=2018-03-21&Signature=k8rzSS7E%2BTW64t27B5KSCPUUM04=
+因为我有一份名单。
 
 And they would tell me and some of them might know this too hard.
 
@@ -1846,4 +1846,3 @@ Claude.
 
 
 克劳德。
-
